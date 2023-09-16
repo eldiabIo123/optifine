@@ -780,3 +780,6 @@ of.options.CHAT_SHADOW=Cień czatu
 of.options.CHAT_SHADOW.tooltip.1=Cień czatu
 of.options.CHAT_SHADOW.tooltip.2=  Wł. — używaj cienia czatu
 of.options.CHAT_SHADOW.tooltip.3=  Wył. — brak cienia czatu
+
+#Telemetry
+of.options.TELEMETRY=Telemetry
